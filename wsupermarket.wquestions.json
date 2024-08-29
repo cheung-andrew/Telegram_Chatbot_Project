@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66cbbc78bfb09c4627587c7b"
+  },
+  "question": "How do I get notified when product is back to stock?",
+  "answer": "If the product is currently out of stock, you can click on \"Notify Me\" button to get notified by email when it is back in stock.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbbc90bfb09c4627587c7d"
+  },
+  "question": "現時提供什麼送貨方式？",
+  "answer": "送貨上門：下單後，我們會按照訂單所預定的送貨日期和時間直接送到客人指定的地址。\n\n商戶直送：凡註明「商戶直送*」之產品（已註明在產品名稱內），將由商戶另外聯絡客人有關送貨安排，並直接送到客人指定的地址。",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbbc9ebfb09c4627587c81"
+  },
+  "question": "未曾使用優惠碼優惠, 但輸入後顯示優惠碼無效？",
+  "answer": "1. 請檢查輸入優惠碼時中間並沒有空格\n2. 僅大寫(區分大小寫)\n3. 如果問題仍然存在，請在約30分鐘後重新輸入優惠碼結帳",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbbca4bfb09c4627587c83"
+  },
+  "question": "網上交易付款的過程安全嗎？",
+  "answer": "為提供安全可靠的網上購物服務，我們的網上交易使用傳輸層安全性加密技術Transport Layer Security （TLS）。所有個人資料包括您的信用卡號碼、姓名、地址等，會經過加密，才透過互聯網傳送，防止 閣下的資料在網上傳送時，被未經許可的第三者閱讀。",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbf03cf6477f73b03627bb"
+  },
+  "question": "What is the minimum consumption or shelf life of the product?",
+  "answer": "The following products have minimum consumption or shelf life and this period will be calculated from the delivery date\nBread: 2 days\nChilled Milk: 5 days\nBaby Milk Powder: Hipp Organic: 90 days; Other brands: 180 days\nBaby Food: 30 days\nChilled Meat and Poultry: 2-7 days\nOther Chilled food: 7-14 days\nYogurt and probiotic drinks: 7-14 days",
+  "__v": 0
+}]

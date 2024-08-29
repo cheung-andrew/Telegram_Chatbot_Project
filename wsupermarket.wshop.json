@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817c5"
+  },
+  "shopid": 1001,
+  "shopname": "PARKnSHOP",
+  "address": "Shop Nos. 1 & 9, G/F, ac1, Nos. 13-23 Nam Ning Street, Aberdeen, Hong Kong",
+  "time": "0730 - 2300",
+  "latlng": "22.2485967,114.1515621",
+  "latitude": 22.2485967,
+  "longitude": 114.1515621
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817c6"
+  },
+  "shopid": 1002,
+  "shopname": "fusion",
+  "address": "Unit 9 of G/F, Aberdeen Marina Club, 8 Shum Wan Rd, Wong Chuk Hang, Hong Kong",
+  "time": "0800 - 2200",
+  "latlng": "22.244771,114.1648363",
+  "latitude": 22.244771,
+  "longitude": 114.1648363
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817c7"
+  },
+  "shopid": 1003,
+  "shopname": "fusion",
+  "address": "Shop No. 3C, G/F, Aegean Coast, 2 Kwun Tsing Road, So Kwun Wat, Tuen Mun, N.T.",
+  "time": "0800 - 2200",
+  "latlng": "22.3735873,113.9920149",
+  "latitude": 22.3735873,
+  "longitude": 113.9920149
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817c8"
+  },
+  "shopid": 1004,
+  "shopname": "TASTE",
+  "address": "Shop Nos. F33-37, F38-40 and F41-45 on First Floor of Amoy Plaza of Amoy Gardens Phase I, No. 77 Ngau Tau Kok Road, Kowloon Bay, Kowloon",
+  "time": "0800 - 2230",
+  "latlng": "22.324238,114.216829",
+  "latitude": 22.324238,
+  "longitude": 114.216829
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817c9"
+  },
+  "shopid": 1005,
+  "shopname": "PARKnSHOP",
+  "address": "Shop No. 4, G/F, Ap Lei Chau Est Multi-Storey Carpark Building, Ap Lei Chau, Hong Kong",
+  "time": "0800 - 2130",
+  "latlng": "22.2445482,114.1514827",
+  "latitude": 22.2445482,
+  "longitude": 114.1514827
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817ca"
+  },
+  "shopid": 1006,
+  "shopname": "fusion",
+  "address": "Baguio Villa, 550 Victoria Rd, Pok Fu Lam",
+  "time": "0900 - 2200",
+  "latlng": "22.2615813,114.1307858",
+  "latitude": 22.2615813,
+  "longitude": 114.1307858
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817cb"
+  },
+  "shopid": 1007,
+  "shopname": "PARKnSHOP",
+  "address": "Shop 233, Level 2, Hiu Lai Shopping Ctr, Hiu Lai Court, Sau Mau Ping, Kwun Tong, Kowloon",
+  "time": "0800 - 2200",
+  "latlng": "22.3233198,114.2235674",
+  "latitude": 22.3233198,
+  "longitude": 114.2235674
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817cc"
+  },
+  "shopid": 1008,
+  "shopname": "fusion",
+  "address": "Shop 2, B1/F, Laguna Plaza, Laguna City, 88 Cha Kwo Ling Rd, Kwun Tong",
+  "time": "0800 - 2200",
+  "latlng": "22.3068543,114.2256348",
+  "latitude": 22.3068543,
+  "longitude": 114.2256348
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817cd"
+  },
+  "shopid": 1009,
+  "shopname": "PARKnSHOP",
+  "address": "Shop No. 110, Upper Ground Floor, Fung Tai House, On Tai Estate, Kwun Tong, Kowloon",
+  "time": "0800 - 2200",
+  "latlng": "22.3272506,114.2276254",
+  "latitude": 22.3272506,
+  "longitude": 114.2276254
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817ce"
+  },
+  "shopid": 1010,
+  "shopname": "PARKnSHOP",
+  "address": "Shop No.UG03, On Tat Shopping Centre, On Tat Estate, Kwun Tong, Kowloon",
+  "time": "0800 - 2200",
+  "latlng": "22.318258,114.2282245",
+  "latitude": 22.318258,
+  "longitude": 114.2282245
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817cf"
+  },
+  "shopid": 1011,
+  "shopname": "PARKnSHOP",
+  "address": "G/F and M/F, 42 Shui Wo Street, Kwun Tong, Kowloon",
+  "time": "0730 - 2100",
+  "latlng": "22.3050276,114.1907307",
+  "latitude": 22.3050276,
+  "longitude": 114.1907307
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817d0"
+  },
+  "shopid": 1012,
+  "shopname": "PARKnSHOP",
+  "address": "Shop No. R02, F3 and F4 Floor, Shopping Centre I, Shun Lee Estate, 15 Lee On Road, Kowloon",
+  "time": "0800 - 2200",
+  "latlng": "22.3316444,114.2227148",
+  "latitude": 22.3316444,
+  "longitude": 114.2227148
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817d1"
+  },
+  "shopid": 1013,
+  "shopname": "PARKnSHOP",
+  "address": "Shop No. 2, Choi Ying Place, Choi Ying Est, Ngau Tau Kok, Kowloon",
+  "time": "0800 - 2200",
+  "latlng": "22.3316689,114.21499",
+  "latitude": 22.3316689,
+  "longitude": 114.21499
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817d2"
+  },
+  "shopid": 1014,
+  "shopname": "PARKnSHOP",
+  "address": "Shop 316, 3/F, Lok Wah Commercial Centre, Lok Wah North Estate, Ngau Tau Kok, Kowloon",
+  "time": "0800 - 2200",
+  "latlng": "22.321414,114.2196225",
+  "latitude": 22.321414,
+  "longitude": 114.2196225
+},
+{
+  "_id": {
+    "$oid": "66cc3f9c6014a5e1154817d3"
+  },
+  "shopid": 1015,
+  "shopname": "PARKnSHOP",
+  "address": "Unit 218, 2/F, Richland Gardens Shopping Centre, Richland Gardens, 80 Wang Kwong Road, Kowloon Bay, Kowloon",
+  "time": "0800 - 2200",
+  "latlng": "22.3295356,114.203844",
+  "latitude": 22.3295356,
+  "longitude": 114.203844
+}]
